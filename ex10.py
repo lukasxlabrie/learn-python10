@@ -6,6 +6,7 @@ backslash_cat = "I'm \\ a \\ cat." #this adds a \ between defined areas
 
 #there is no list function at work here, it's just a """" being used to allow text to travel across multiple lines
 #the * is part of the text anf the /t adds a tab AKA indent
+#\n puts Grass on its own line
 fat_cat = """
 I'll do a list:
 \t* Cat food
