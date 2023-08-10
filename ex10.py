@@ -12,6 +12,7 @@ I'll do a list:
 \t* Fishies
 \t* Catnip\n\t* Grass
 """
+#these are just telling the program what to show in the output
 print(tabby_cat)
 print(persian_cat)
 print(backslash_cat)
